@@ -51,6 +51,7 @@ set wildignore+=*.log,*.sql,*.cache
 "" Reindex all files
 noremap <Leader>r :CommandTFlush<CR>
 
+" Adding the status bar
 set laststatus=2
 set noshowmode
 
